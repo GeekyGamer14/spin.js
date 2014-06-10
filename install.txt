@@ -1,0 +1,3 @@
+1: drag spin.js to desired folder
+2: add <script src="path/to/spin.js"></script> under your <head> tag
+3: run spin(); in your console

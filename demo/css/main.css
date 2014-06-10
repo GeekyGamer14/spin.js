@@ -1,0 +1,13 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	background-color: black;
+}
+
+.credit {
+	position: fixed; left: 5px; bottom: 5px;
+	color: deepskyblue;
+}
+
+.demo {
+	color: white;
+}
